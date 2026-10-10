@@ -1,0 +1,7 @@
+librosa
+tensorflow
+numpy
+pandas
+matplotlib
+streamlit
+tqdm
